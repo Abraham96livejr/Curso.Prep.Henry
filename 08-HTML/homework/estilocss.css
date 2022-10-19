@@ -1,0 +1,40 @@
+estilocss.css
+
+.thirdDiv{
+width: 600px;
+height: 500px;
+padding: 50px;
+box-sizing: border-box;
+border-top: 1px solid #aliceblue;
+}
+
+.divClass{
+	
+	
+}
+
+.spanId{
+	font-size: 18px;
+	padding-top: 50px;
+}
+
+body{
+/* background: #e6e6e6; */
+ background: silver;
+}
+
+
+
+img {
+position: static;
+border: 10px solid #DC143C;
+max-width: 400px;
+
+}
+
+h1{
+  text-align: center;
+  font-size: 25px;
+  font-family: Segoe UI;
+  font-weight: 200;
+}
